@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container-fluid{
+    margin-top: 20px;
+}
+
+.search_field{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.img-style{
+    margin: 0 10px;
+}
+
+.img-style1{
+    width: 65%;
+}
+
+.img-style2{
+    width: 26%;
+}
+
+.img-single{
+    width: 70%;
+}
+
+.text-white{
+    color:white;
+}
+
+.text-danger{
+    color: red;
+}
+
+.img-style3{
+    width: 100%;
+    height: 150%;
+}
