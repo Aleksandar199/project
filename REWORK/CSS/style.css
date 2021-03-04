@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    margin-bottom: 40px;
+}
+.container{
+    margin-top: 30px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+nav a, nav button{
+    padding: 2px 50px !important;
+}
+
+.card-logIn{
+    margin-top: 50px;
+}
+.mfa-log{
+    margin-top: 17%;
+}
+
+.card-logIn input[type=password], .card-logIn input[type=text]{
+    font-size: 30px;
+    width: 50%;
+    margin-left: 25%;
+    border: 3px solid gold;
+}
+
+.date-time{
+    text-shadow: whitesmoke 1px 1px 20px;
+    padding-top: 10px;
+}
+
+.date-time-div{
+    margin-right: 6%;
+}
+
+.greske-tabela{
+    font-weight: bold;
+}
+
+.card-logIn-verify{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.btn_ref{
+    margin-bottom: 4px;
+}
+
+@media only screen and (max-width: 1200px) {
+   
+
+}
